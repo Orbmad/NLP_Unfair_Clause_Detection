@@ -1,2 +1,5 @@
 # Exclude datasets
 data/
+embeddings/
+
+Assignment1-2627_cleanCopy.ipynb
